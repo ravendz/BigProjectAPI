@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AD06-GetUserNotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb754fbf-5320-46b2-ba1d-03040d00a3ee</testCaseGuid>
+</TestCaseEntity>

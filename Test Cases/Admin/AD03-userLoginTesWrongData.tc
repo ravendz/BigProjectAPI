@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AD03-userLoginTesWrongData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>be5dbead-f77d-4dbc-a9c9-86c1b16d4b65</testCaseGuid>
+</TestCaseEntity>

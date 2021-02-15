@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EP40-Get Employee Events Not Found test</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb984e92-80e7-443b-8c01-1118d1ef9dd1</testCaseGuid>
+</TestCaseEntity>
